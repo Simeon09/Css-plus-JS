@@ -1,0 +1,12 @@
+body {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+body img {
+  width: 50%;
+  height: 50%;
+}
+/*# sourceMappingURL=styles.css.map */
